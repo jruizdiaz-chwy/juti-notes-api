@@ -2,8 +2,6 @@
 
 Proyecto de ejemplo que demuestra el uso de funciones Lambda con DynamoDB en AWS. Basado en el tutorial [Serverless Stack](http://serverless-stack.com).
 
-# Desarrollo
-
 ## Configurar la cuenta de AWS CLI
 
 **Instalar AWS CLI**
